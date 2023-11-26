@@ -30,4 +30,9 @@ export PATH="/opt/homebrew/opt/gnu-units/libexec/gnubin:$PATH"
 
 export BASH_SILENCE_DEPRECATION_WARNING=1
 
+if command -v pyenv 1>/dev/null 2>&1; then eval "$(pyenv init -)"; fi
+if which pyenv-virtualenv-init > /dev/null; then eval "$(pyenv virtualenv-init -)"; fi
+
+[ -f /opt/homebrew/etc/bash_completion ] && . /opt/homebrew/etc/bash_completion
+
 fortune

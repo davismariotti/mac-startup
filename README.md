@@ -15,4 +15,6 @@
 - [Filezilla Pro](https://filezillapro.com/)
 - [Spotify](https://www.spotify.com/de-en/download/mac/)
 - [DropBox](https://www.dropbox.com/downloading?os=mac)
+- [AppCleaner](http://www.freemacsoft.net/appcleaner/)
+- [The Unarchiver](https://apps.apple.com/us/app/the-unarchiver/id425424353?mt=12)
 
